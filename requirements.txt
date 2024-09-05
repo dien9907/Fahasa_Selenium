@@ -1,0 +1,15 @@
+pandas
+matplotlib
+beautifulsoup4
+requests
+pandas
+unidecode
+matplotlib
+seaborn
+scikit-learn
+selenium
+tqdm
+curl_cffi
+python-dotenv
+chromedriver_autoinstaller
+ipywidgets
